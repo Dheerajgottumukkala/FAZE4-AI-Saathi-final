@@ -12,10 +12,17 @@ language limitations. AI Saathi aims to transform, not just digitize, education.
 
 ## Key Features
 • 🔴 **Live & On-Demand Mentorship**
+
 • 🌐 **Multilingual Support** (Regional Languages)
+
 • 🧠 **AI-Powered Doubt Solving** (via Gemini API)
+
 • 🗣️ **Real-Time Pronunciation Scoring Tool**
+
 • 📈 **Progress Tracking Dashboards** (for students, parents, teachers)
+
 • 🎓 **Skill-Focused Learning Modules** (Coding, Communication, Finance, etc.)
+
 • 📱 **Mobile App with Offline Support**
+
 • 🔐 **Secure & Intuitive Interface**
